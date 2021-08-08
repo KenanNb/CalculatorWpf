@@ -1,0 +1,7 @@
+C:\Users\Kənan\source\repos\CalculatorC\obj\Debug\CalculatorC.csprojAssemblyReference.cache
+C:\Users\Kənan\source\repos\CalculatorC\obj\Debug\CalculatorC.csproj.CoreCompileInputs.cache
+C:\Users\Kənan\source\repos\CalculatorC\bin\Debug\CalculatorC.exe.config
+C:\Users\Kənan\source\repos\CalculatorC\bin\Debug\CalculatorC.exe
+C:\Users\Kənan\source\repos\CalculatorC\bin\Debug\CalculatorC.pdb
+C:\Users\Kənan\source\repos\CalculatorC\obj\Debug\CalculatorC.exe
+C:\Users\Kənan\source\repos\CalculatorC\obj\Debug\CalculatorC.pdb
